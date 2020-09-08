@@ -1,7 +1,7 @@
 class Objects extends BaseClass {
   constructor(x, y){
     super(x,y,50,50);
-    this.image = loadImage("sprites/square.jpg");
+    this.image = loadImage("square.jpg");
     this.Visiblity = 255;
   }
 
